@@ -1,1 +1,5 @@
+# Dataset de la Actividad 3: 60 MB comprimido, el notebook lo descarga de UCI si no esta
+data/har/
 
+.ipynb_checkpoints/
+__pycache__/
